@@ -110,6 +110,10 @@
             <a href="https://wp.hellocode.name/?page_id=141">Me</a>
         </div>
     </div>
+    <div style="position: fixed;bottom: 15px;text-align: center;">
+        <p>Copyright © 2019 hellocode.name 版权所有</p>
+        <p>粤ICP备17086092号</p>
+    </div>
 </div>
 <script src="https://cdn.bootcss.com/particles.js/2.0.0/particles.min.js"></script>
 <script>

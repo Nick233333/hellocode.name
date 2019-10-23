@@ -112,7 +112,7 @@
     </div>
     <div style="position: fixed;bottom: 15px;text-align: center;">
         <p>Copyright © 2019 hellocode.name 版权所有</p>
-        <p>粤ICP备17086092号</p>
+        <p><a style="color: #9caebf;text-decoration: none;" href="http://www.beian.miit.gov.cn">粤ICP备17086092号-1</a></p>
     </div>
 </div>
 <script src="https://cdn.bootcss.com/particles.js/2.0.0/particles.min.js"></script>

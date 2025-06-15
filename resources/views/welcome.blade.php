@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +11,7 @@
     <meta http-equiv="Cache-Control" content="no-transform" />
     <meta http-equiv="Cache-Control" content="no-siteapp" />
     <meta name="author" content="Nick">
-    <title>Welcome To HelloCode.name!</title>
+    <title>Welcome To 0001.wiki!</title>
     <meta name="Keywords" content="php,laravel,vue,js,mysql,css,html5" />
     <meta name="Description" content="php,laravel,vue,js,mysql,css,html5信息。" />
     <style>
@@ -104,15 +105,15 @@
         </div> -->
 
         <div class="links">
-            <a href="https://wp.hellocode.name/">Blog</a>
-            <a href="https://weibo.com/338367899/">Weibo</a>
+            <a href="https://wp.0001.wiki/">Blog</a>
+            <a href="http://linux.0001.wiki/">Linux 电子书</a>
             <a href="https://github.com/nick233333">GitHub</a>
-            <a href="https://wp.hellocode.name/?page_id=141">Me</a>
+            <a href="https://wp.0001.wiki/?page_id=141">Me</a>
         </div>
     </div>
     <div style="position: fixed;bottom: 15px;text-align: center;">
-        <p>Copyright © 2019 hellocode.name 版权所有</p>
-        <p><a style="color: #9caebf;text-decoration: none;" href="http://www.beian.miit.gov.cn">粤ICP备17086092号-1</a></p>
+        <p>Copyright © 2025 0001.wiki 版权所有</p>
+        <p><a style="color: #9caebf;text-decoration: none;" href="https://beian.miit.gov.cn/" target="_blank">粤ICP备17086092号-1</a></p>
     </div>
 </div>
 <script src="https://cdn.bootcss.com/particles.js/2.0.0/particles.min.js"></script>
